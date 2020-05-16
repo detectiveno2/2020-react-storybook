@@ -1,0 +1,14 @@
+.Cart table thead {
+  background-color: #343a40;
+}
+
+.Cart table thead tr th {
+  color: #ffffff;
+  text-align: center;
+}
+
+.Cart table tbody tr td {
+  padding: 0px;
+  line-height: 64px;
+  text-align: center;
+}

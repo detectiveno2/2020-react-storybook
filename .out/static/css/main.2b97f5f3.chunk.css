@@ -1,0 +1,38 @@
+.TransactionsList ul {
+  border: 1px solid #000000;
+  list-style-type: none;
+  padding: 20px;
+}
+
+.Cart table thead {
+  background-color: #343a40;
+}
+
+.Cart table thead tr th {
+  color: #ffffff;
+  text-align: center;
+}
+
+.Cart table tbody tr td {
+  padding: 0px;
+  line-height: 64px;
+  text-align: center;
+}
+
+.Users table thead {
+  background-color: #343a40;
+}
+
+.Users table thead tr th {
+  color: #ffffff;
+  text-align: center;
+}
+
+.Users table tbody tr td {
+  padding: 0px;
+  line-height: 64px;
+  text-align: center;
+}
+
+
+/*# sourceMappingURL=main.2b97f5f3.chunk.css.map*/
